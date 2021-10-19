@@ -14,7 +14,9 @@
     "type": "git",
     "url": "https://github.com/wonun-de/strapi-plugin-basic-auth"
   },
-  "dependencies": {},
+  "dependencies": {
+    "basic-auth": "^2.0.1"
+  },
   "author": {
     "name": "Thomas Pockrandt",
     "email": "me@thomaspockrandt.com",
