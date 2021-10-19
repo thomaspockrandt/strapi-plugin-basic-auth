@@ -1,20 +1,35 @@
 {
   "name": "basic-auth",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "Basic Authentication Middleware for Strapi CMS",
   "strapi": {
-    "name": "basic-auth",
+    "name": "Basic Authentication",
     "icon": "plug",
-    "description": "Description of basic-auth plugin",
+    "description": "Basic Authentication Middleware for Strapi CMS",
     "kind": "plugin"
+  },
+  "homepage": "https://github.com/wonun-de/strapi-plugin-basic-auth",
+  "bugs": "https://github.com/wonun-de/strapi-plugin-basic-auth/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wonun-de/strapi-plugin-basic-auth"
   },
   "dependencies": {},
   "author": {
-    "name": "A Strapi developer"
+    "name": "Thomas Pockrandt",
+    "email": "me@thomaspockrandt.com",
+    "url": "https://thomaspockrandt.com"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Thomas Pockrandt",
+      "email": "me@thomaspockrandt.com",
+      "url": "https://thomaspockrandt.com"
+    },
+    {
+      "name": "Christian Heimke",
+      "email": "hello@christian-heimke.com",
+      "url": "https://christian-heimke.com"
     }
   ],
   "engines": {
