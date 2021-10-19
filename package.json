@@ -16,15 +16,20 @@
   },
   "dependencies": {},
   "author": {
-    "name": "Thomas Pockrandt"
+    "name": "Thomas Pockrandt",
+    "email": "me@thomaspockrandt.com",
+    "url": "https://thomaspockrandt.com"
   },
   "maintainers": [
     {
-      "name": "Thomas Pockrandt"
+      "name": "Thomas Pockrandt",
+      "email": "me@thomaspockrandt.com",
+      "url": "https://thomaspockrandt.com"
     },
     {
       "name": "Christian Heimke",
-      "email": "hello@christian-heimke.com"
+      "email": "hello@christian-heimke.com",
+      "url": "https://christian-heimke.com"
     }
   ],
   "engines": {
