@@ -1,11 +1,11 @@
 {
   "name": "basic-auth",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "Basic Authentication Middleware for Strapi CMS",
   "strapi": {
-    "name": "basic-auth",
+    "name": "Basic Authentication",
     "icon": "plug",
-    "description": "Description of basic-auth plugin",
+    "description": "Basic Authentication Middleware for Strapi CMS",
     "kind": "plugin"
   },
   "dependencies": {},
