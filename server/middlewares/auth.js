@@ -4,6 +4,11 @@ const auth = require('basic-auth');
 
 module.exports = (_, { strapi }) => {
   return async (ctx, next) => {
+    // v4 workaround
+    if (ctx.url.startsWith('/admin/project-type')) {
+      return await next();
+    }
+
     // Programmatic access
     if (
       ctx.url.startsWith('/graphql') ||
