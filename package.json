@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Basic Authentication Middleware for Strapi CMS",
   "strapi": {
-    "name": "Basic Authentication",
+    "name": "basic-authentication",
     "icon": "plug",
-    "description": "Basic Authentication Middleware for Strapi CMS",
+    "description": "HTTP Basic Authentication Middleware for Strapi CMS",
     "kind": "plugin"
   },
   "homepage": "https://github.com/wonun-de/strapi-plugin-basic-auth",
