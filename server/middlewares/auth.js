@@ -4,8 +4,6 @@ const auth = require('basic-auth');
 
 module.exports = (_, { strapi }) => {
   return async (ctx, next) => {
-    strapi.log.debug('plugin: middleware');
-    
     // Programmatic access
     if (
       ctx.url.startsWith('/graphql') ||
