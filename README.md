@@ -1,3 +1,3 @@
-# Strapi plugin basic-auth
+# Basic Authentication Middleware for Strapi CMS
 
-A quick description of basic-auth.
+Plugin for Strapi v4
