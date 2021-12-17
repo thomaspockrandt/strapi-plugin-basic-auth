@@ -7,7 +7,9 @@
     "description": "Adds another security layer to the Strapi CMS admin and API endpoints.",
     "kind": "plugin"
   },
-  "dependencies": {},
+  "dependencies": {
+    "basic-auth": "^2.0.1"
+  },
   "author": {
     "name": "A Strapi developer"
   },
