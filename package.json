@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "description": "This is the description of the plugin.",
   "strapi": {
-    "name": "strapi-plugin-basic-auth",
-    "description": "Description of strapi-plugin-basic-auth plugin",
+    "name": "Basic Authentication",
+    "description": "Adds another security layer to the admin and API endpoints.",
     "kind": "plugin"
   },
   "dependencies": {
