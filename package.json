@@ -1,7 +1,7 @@
 {
   "name": "strapi-plugin-basic-auth",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "Basic Authentication Middleware for Strapi CMS",
   "strapi": {
     "name": "Basic Authentication",
     "description": "Adds another security layer to the admin and API endpoints.",
@@ -11,11 +11,20 @@
     "basic-auth": "^2.0.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Thomas Pockrandt",
+    "email": "me@thomaspockrandt.com",
+    "url": "https://thomaspockrandt.com"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Thomas Pockrandt",
+      "email": "me@thomaspockrandt.com",
+      "url": "https://thomaspockrandt.com"
+    },
+    {
+      "name": "Christian Heimke",
+      "email": "hello@christian-heimke.com",
+      "url": "https://christian-heimke.com"
     }
   ],
   "engines": {
